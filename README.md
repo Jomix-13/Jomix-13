@@ -2,6 +2,9 @@
 
 ## Full Stack Engineer
 
+[LinkedIn](https://www.linkedin.com/in/john-wanis-764957138/).      
+[AngelList](https://angel.co/u/john-wanis-1)
+
 ### Skills:
 
 #### Frontend
